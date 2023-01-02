@@ -1,6 +1,6 @@
 # game_checkers
 
-Implementation of game "Checkers" (network multi-player). Further descriptin in [project documentation](https://github.com/xbendl/game_checkers/blob/master/documentation.pdf).
+Implementation of game "Checkers" (network multi-player). Further descriptin in [project documentation (cZ)](https://github.com/xbendl/game_checkers/blob/master/documentation.pdf).
 
 ![GUI](https://github.com/xbendl/game_checkers/blob/master/figx.png)
 
@@ -22,5 +22,5 @@ After launch, user needs to input name, server, port of damaserver2008.
 
 Testing instructions:
 =====
-After launch, set your name and select XML file via "Soubor->Archiv" menu (feel free to select existing ones from "examples" folder). 
+After launch, set your name and select XML file via "Soubor->Archiv" menu (feel free to select existing ones from `examples` folder). 
 
