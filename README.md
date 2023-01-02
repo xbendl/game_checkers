@@ -1,8 +1,8 @@
 # game_checkers
 
-Implementation of game "Checkers" (network multi-player). Further descriptin in [project documentation](https://github.com/xbendl/game_checkers/blob/main/projektova_dokumentace.pdf)
+Implementation of game "Checkers" (network multi-player). Further descriptin in [project documentation](https://github.com/xbendl/game_checkers/blob/master/documentation.pdf).
 
-![GUI](https://github.com/xbendl/game_checkers/blob/main/fig.png)
+![GUI](https://github.com/xbendl/game_checkers/blob/master/figx.png)
 
 Installation:
 =====
