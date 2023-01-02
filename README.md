@@ -1,22 +1,24 @@
-# misc_game_theory
-Simulator of dynamics of evolution of cooperation in repeated games with non-zero sum
+# game_checkers
 
-![GUI](https://github.com/xbendl/misc_game_theory/blob/main/fig.png)
+Implementation of game "Checkers" (network multi-player). Further descriptin in [project documentation](https://github.com/xbendl/game_checkers/blob/main/projektova_dokumentace.pdf)
+
+![GUI](https://github.com/xbendl/game_checkers/blob/main/fig.png)
 
 Installation:
 =====
-- Install [gnuplot](http://www.gnuplot.info/) library 
-- Run "make command" 
+- Run "make" command.
 
-Run:
+Run (server):
 =====
-Synopsis: 
-./ipd -i inputFile -o outputFile
+Synopsis: ./damaserver2008 [-p]
+Parameter -p specifying port is optional, default is 3000.
 
-Parameters:
--i inputFile
--o outputFile
+Run (client):
+=====
+Synopsis: ./dama2008
+After launch, user needs to input name, server, port of damaserver2008.
 
-Example:
-==================
-./ukaz_co_umis.sh
+Testing instructions:
+=====
+After launch, set your name and select XML file via "Soubor->Archiv" menu (feel free to select existing ones from "examples" folder). 
+
