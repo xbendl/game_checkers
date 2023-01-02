@@ -6,16 +6,18 @@ Implementation of game "Checkers" (network multi-player). Further descriptin in 
 
 Installation:
 =====
-- Run "make" command.
+- Run `make` command.
 
 Run (server):
 =====
-Synopsis: ./damaserver2008 [-p]
+```Synopsis: ./damaserver2008 [-p]```
+
 Parameter -p specifying port is optional, default is 3000.
 
 Run (client):
 =====
-Synopsis: ./dama2008
+```Synopsis: ./dama2008```
+
 After launch, user needs to input name, server, port of damaserver2008.
 
 Testing instructions:
