@@ -6,7 +6,7 @@ Implementation of game "Checkers" (network multi-player). Further descriptin in 
 
 Installation:
 =====
-- Run `make` command.
+Run `make` command.
 
 Run (server):
 =====
