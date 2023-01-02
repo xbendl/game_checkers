@@ -1,0 +1,31 @@
+14.4.2008, 9:12:57 - Vyrizeni pozadavku na preposlani zpravy o ukonceni hry ke hre se nepodarilo.
+14.4.2008, 11:13:15 - Vyrizeni pozadavku na preposlani zpravy o ukonceni hry ke hre se nepodarilo.
+14.4.2008, 11:13:18 - Vyrizeni pozadavku na preposlani zpravy o ukonceni hry ke hre se nepodarilo.
+15.4.2008, 9:29:54 - Vyrizeni pozadavku na vyjmuti hrace ze seznamu volnych hracu se nepodarilo.
+15.4.2008, 9:29:54 - Vyrizeni pozadavku na vlozeni hrace do seznamu volnych hracu se nepodarilo.
+15.4.2008, 9:29:55 - Vyrizeni pozadavku na vyjmuti hrace ze seznamu volnych hracu se nepodarilo.
+15.4.2008, 13:28:10 - Vyrizeni pozadavku na vyjmuti hrace ze seznamu volnych hracu se nepodarilo.
+15.4.2008, 13:28:10 - Vyrizeni pozadavku na vlozeni hrace do seznamu volnych hracu se nepodarilo.
+15.4.2008, 13:28:16 - Vyrizeni pozadavku na zviditelneni hrace se nepodarilo.
+15.4.2008, 13:28:33 - Vyrizeni pozadavku na vyjmuti hrace ze seznamu volnych hracu se nepodarilo.
+15.4.2008, 14:42:34 - Vyrizeni pozadavku na preposlani tahu protihraci se nepodarilo.
+15.4.2008, 14:44:27 - Vyrizeni pozadavku na preposlani tahu protihraci se nepodarilo.
+15.4.2008, 23:0:1 - Vyrizeni pozadavku na preposlani tahu protihraci se nepodarilo.
+15.4.2008, 23:0:17 - Vyrizeni pozadavku na preposlani tahu protihraci se nepodarilo.
+16.4.2008, 9:24:20 - Vyrizeni pozadavku na preposlani tahu protihraci se nepodarilo.
+16.4.2008, 13:23:57 - Vyrizeni pozadavku na preposlani tahu protihraci se nepodarilo.
+16.4.2008, 13:26:17 - Vyrizeni pozadavku na preposlani tahu protihraci se nepodarilo.
+16.4.2008, 13:29:33 - Vyrizeni pozadavku na preposlani tahu protihraci se nepodarilo.
+16.4.2008, 13:32:57 - Vyrizeni pozadavku na preposlani zpravy urcujici vitezstvi ve hre se nepodarilo.
+16.4.2008, 13:32:57 - Vyrizeni pozadavku na preposlani tahu protihraci se nepodarilo.
+16.4.2008, 13:39:35 - Vyrizeni pozadavku na preposlani tahu protihraci se nepodarilo.
+16.4.2008, 13:43:8 - Vyrizeni pozadavku na preposlani tahu protihraci se nepodarilo.
+16.4.2008, 13:44:57 - Vyrizeni pozadavku na preposlani tahu protihraci se nepodarilo.
+16.4.2008, 14:7:49 - Vyrizeni pozadavku na preposlani tahu protihraci se nepodarilo.
+16.4.2008, 14:7:58 - Vyrizeni pozadavku na preposlani zpravy o ukonceni hry ke hre se nepodarilo.
+16.4.2008, 14:8:13 - Vyrizeni pozadavku na preposlani tahu protihraci se nepodarilo.
+16.4.2008, 14:8:43 - Vyrizeni pozadavku na preposlani tahu protihraci se nepodarilo.
+16.4.2008, 14:11:44 - Vyrizeni pozadavku na preposlani tahu protihraci se nepodarilo.
+16.4.2008, 14:15:46 - Vyrizeni pozadavku na preposlani tahu protihraci se nepodarilo.
+16.4.2008, 14:24:42 - Vyrizeni pozadavku na preposlani tahu protihraci se nepodarilo.
+16.4.2008, 17:37:16 - Vyrizeni pozadavku na preposlani tahu protihraci se nepodarilo.
